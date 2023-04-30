@@ -1,6 +1,6 @@
 # Internations | User management system
 
-Task: User management system We have designed a coding task that is intentionally vague and open-ended in its specification so that you have the opportunity to take it in almost any direction you wish.
+User management system We have designed a coding task that is intentionally vague and open-ended in its specification so that you have the opportunity to take it in almost any direction you wish.
 
 <img src="https://github.com/fernandogiroto/internations/blob/master/public/images/internations_project.png" alt="Internations Project" title="Internations Project" width="100%">
 
@@ -32,7 +32,7 @@ DB_USERNAME=username
 DB_PASSWORD=password
 ```
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and devDependencies
 
 ```sh
 npm install
