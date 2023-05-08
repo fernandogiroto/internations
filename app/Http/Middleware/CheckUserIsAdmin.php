@@ -21,7 +21,6 @@ class CheckUserIsAdmin
             return response()->json('Your are not adm');
         }else{
             return $next($request);
-            
         }
     }
 }

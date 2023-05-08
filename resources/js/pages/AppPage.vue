@@ -1,6 +1,5 @@
 <template>
 <div>
-  
     <!-- Banner -->
     <banner-component></banner-component>
     <!-- Content -->
